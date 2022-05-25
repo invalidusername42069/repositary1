@@ -25,6 +25,7 @@ public class StudentDetails {
         
         for(int i = 0;i<studentlist.length;i++){
         System.out.println(studentlist[i].getName()+" "+studentlist[i].getAge());
+            System.out.println("Hello");
         }
         
     }
