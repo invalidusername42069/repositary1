@@ -8,6 +8,7 @@ package studentdetails;
 public class students {
     private String name;
     private int age;
+ private int semester;
 
     /**
      * @return the name
